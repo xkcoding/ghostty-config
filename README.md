@@ -1,6 +1,6 @@
 # ghostty-config
 
-My personal [Ghostty](https://ghostty.org) terminal configuration, packaged for easy reuse.
+Opinionated [Ghostty](https://ghostty.org) terminal config with a one-line installer — dual light/dark themes, CJK-aligned fonts, Quake-style quick terminal, agent-friendly.
 
 > 🇨🇳 [中文版 README](./README.zh-CN.md)
 

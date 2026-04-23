@@ -1,6 +1,6 @@
 # ghostty-config
 
-我的个人 [Ghostty](https://ghostty.org) 终端配置，打包方便复用与分享。
+带个性的 [Ghostty](https://ghostty.org) 终端配置，一行命令安装——明暗双主题、CJK 对齐字体、Quake 式快速终端，对 Agent 友好。
 
 > 🇺🇸 [English README](./README.md)
 
